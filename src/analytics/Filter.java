@@ -1,5 +1,8 @@
 package analytics;
 
+import analytics.record.RecordC;
+import analytics.record.RecordD;
+
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;

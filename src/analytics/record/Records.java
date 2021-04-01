@@ -1,4 +1,6 @@
-package analytics;
+package analytics.record;
+
+import analytics.Filter;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,4 +1,4 @@
-import analytics.Records;
+import analytics.record.Records;
 
 import java.util.ArrayList;
 import java.util.List;

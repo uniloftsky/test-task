@@ -1,4 +1,4 @@
-package analytics;
+package analytics.record;
 
 /**
  * RecordC is a class for creating objects from timeline lines
