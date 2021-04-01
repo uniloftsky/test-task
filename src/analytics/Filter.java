@@ -40,7 +40,7 @@ public class Filter {
     /**
      * Summary processing. Returning a list of timelines that matches for future checking.
      * If the query matches one or more timelines, outputs average wait time
-     * @param recordsC list of lines that matches
+     * @param recordsC list of lines that will be checked for match
      * @return list of lines that matches for future checking
      */
     public List<RecordC> filter(List<RecordC> recordsC) {
