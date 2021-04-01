@@ -1,4 +1,4 @@
-package record;
+package analytics;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
