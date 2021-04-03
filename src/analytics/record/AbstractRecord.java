@@ -1,6 +1,5 @@
 package analytics.record;
 
-import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public abstract class AbstractRecord {
@@ -23,14 +22,6 @@ public abstract class AbstractRecord {
 
     public String getResponseType() {
         return filters[3];
-    }
-
-    public LocalDate getDate() {
-        return LocalDate.parse(filters[4], formatter);
-    }
-
-    public String getTime() {
-        return filters[5];
     }
 
 }
